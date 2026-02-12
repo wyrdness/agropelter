@@ -1,0 +1,157 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/agropelter",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "agropelter",
+    "name": "Agropelter",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "Fearsome Critter",
+    "tags": [
+      "fearsome-critter",
+      "lumberjack-folklore",
+      "tree-dwelling",
+      "invisible",
+      "wood-thrower",
+      "humorous",
+      "tall-tale"
+    ],
+    "status": "folklore",
+    "description": {
+      "summary": "An invisible tree-dwelling creature that hurls branches, dead wood, and debris at passersby from hollow trees, never seen but known by its aggressive wood-throwing.",
+      "full": "The Agropelter is a fearsome critter that inhabits hollow trees in lumber regions. This creature has never been seen directly—it remains invisible or moves too quickly to observe. Its presence is known only through its signature behavior: violently hurling branches, chunks of wood, and tree debris at lumberjacks and travelers passing below. According to the tall tales, the Agropelter lives in hollow tree trunks and emerges only to throw wood at victims. The creature provided a humorous explanation for falling branches and widow-makers (dead branches that fall unexpectedly), turning a genuine forest hazard into a mischievous invisible assailant."
+    },
+    "etymology": {
+      "origin": "American lumberjack folklore, early 20th century",
+      "meaning": "Likely from 'pelter' (one who pelts/throws)",
+      "first_use": "circa 1910"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Fearsome Critter",
+      "subtype": "Tree-dwelling",
+      "variant": "Northern Forests"
+    },
+    "related_phenomena": [
+      {
+        "id": "argopelter",
+        "name": "Argopelter",
+        "relationship": "variant",
+        "description": "More aggressive variant that specifically targets lumberjacks"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "size": "Unknown, never clearly seen",
+      "coloration": ["invisible or too fast to observe"],
+      "features": [
+        {
+          "feature": "Invisibility",
+          "description": "Never seen directly; remains hidden or moves too quickly",
+          "frequency": "always"
+        },
+        {
+          "feature": "Tree-dwelling",
+          "description": "Lives in hollow tree trunks",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Unknown; appearance remains speculative"
+    },
+    "abilities": [
+      {
+        "ability": "Wood throwing",
+        "description": "Hurls branches and wood debris with force and accuracy",
+        "frequency": "constant",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Stealth/invisibility",
+        "description": "Remains completely unobserved despite active presence",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "variable",
+      "disposition": "mischievous to aggressive",
+      "social_structure": "solitary",
+      "habitat_preference": ["hollow trees", "old-growth forests"],
+      "diet": "Unknown",
+      "patterns": [
+        "Lives in hollow tree trunks",
+        "Throws wood at passersby",
+        "Never reveals itself",
+        "Targets travelers and workers"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Lumber regions with old-growth forests and hollow trees",
+      "continents": ["North America"],
+      "countries": ["United States", "Canada"],
+      "regions": ["Northern forests", "Lumber territories"]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "1910",
+        "circa": true,
+        "source": "Lumberjack tall tale collections"
+      }
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "American occupational folklore from lumber camps",
+      "folklore_connections": "Humorous explanation for falling branches and widow-makers"
+    }
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": ["Lumberjack tall tales"],
+      "beliefs": "Explained genuine forest hazard (falling dead wood) as mischievous creature"
+    },
+    "popular_culture": {
+      "literature": [
+        "Fearsome Creatures of the Lumberwoods by William T. Cox (1910)"
+      ]
+    }
+  },
+
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods",
+      "authors": ["William T. Cox"],
+      "date": "1910"
+    }
+  ]
+}
